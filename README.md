@@ -1,4 +1,4 @@
-![beyond](https://raw.githubusercontent.com/beyondAudit/portfolio/img/beyond.png)
+![beyond](img/beyond.png)
 
 <p align="center">
   Request an audit by reaching <a href="https://t.me/xMikb"> Mikb</a>
