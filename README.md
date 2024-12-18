@@ -30,7 +30,7 @@ Note: *All reports herein are published with the consent of our clients.*
 | Protocol                     | Date |Report                                                      | Type        | Researchers involved |
 |------------------------------|------|-------------------------------------------------------|------------------|-------------------|
 | [Bountive](https://www.bountive.fi/) |October 2024 | [:page_facing_up:](audits/Bountive_security_review_v2_3.pdf) | DeFi | SR-[m4k2](https://twitter.com/m4k2_0x)<br> SR-[Greed](https://twitter.com/0xGreed_) <br> SR-[Mikb](https://twitter.com/xmikb)|
-
+| [Oliqlend](https://www.0liqlend.com/) |November 2024 | [:page_facing_up:](audits/0liqlend_Security_Review_v2.pdf) | Lending | SR-[m4k2](https://twitter.com/m4k2_0x)|
 <br>
 
 <br>
