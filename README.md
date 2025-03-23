@@ -46,8 +46,8 @@ Note: *All reports herein are published with the consent of our clients.*
 
 Feel free to reach out to us directly on our socials or checkout our complete contest profiles
 
-|Auditor |  Telegram  | Twitter | Contest Profile |
----------|:----------:|:-------:|-----------------|
+|Auditor |  Telegram  | Twitter |  Contest Profile  |
+---------|:----------:|:-------:|:-----------------:|
 |Mikb    | [📩](https://t.me/xMikb) | [📱](https://twitter.com/xmikb) |  |
 |Greed   | [📩](https://t.me/zeroXgreed) | [📱](https://twitter.com/0xGreed_) | [👾](https://audits.sherlock.xyz/watson/Greed) |
 |m4k2    |  | [📱](https://twitter.com/m4k2_0x) | [👾](https://audits.sherlock.xyz/watson/m4k2) |
