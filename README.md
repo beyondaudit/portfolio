@@ -28,28 +28,28 @@ Note: *All reports herein are published with the consent of our clients.*
 
 |Contest|    Type   |   Rewards   | Results | Ranking | Report |
 --------|-----------|:-----------:|:-------:|:-------:|:------:|
-|[Immunefi Arbitration](https://immunefi.com/audit-competition/immunefiarbitration-boost/leaderboard/)| Vesting, Conflict remediation | $1,269.00 | 1I | 🥉 |[💾](contests/Immunefi_Arbitration-2024_03.md)|
-|[LoopFi](https://code4rena.com/audits/2024-05-loopfi)| Vesting, Restaking | $386.08 | 1H | 🥉 |[💾](contests/LoopFi-2024_05.md)|
-|[Sablier](https://codehawks.cyfrin.io/c/2024-05-Sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Token distribution, Vesting, Payroll | $982.48 | 1M, 1L | 8th |[💾](contests/Sablier-2024_05.md)|
-|[Thorchain](https://code4rena.com/audits/2024-06-thorchain)| Bridge, Cross-chain DEX | $596.13 | 1H, 1M |10th|[💾](contests/Thorchain-2024_06.md)|
-|[Size Credit](https://code4rena.com/audits/2024-06-size)| Lending | $1,903.96 | 2H | 16th |[💾](contests/Size_Credit-2024_06.md)|
-|[Ark Project](https://codehawks.cyfrin.io/c/2024-07-ark-project/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Bridge, NFT, Starknet | $413.64 | 2H, 1M | 21th |[💾](contests/Size_Credit-2024_06.md)|
-|[eBTC Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-router)| BTC, CDP, DEX | $2,356.92 | 1M | 4th |[💾](contests/eBTC-2024_06.md)|  
-|[Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2)| Restaking, Shared security | $211.51 | 1M | 32th |[💾](contests/Symbiotic-2024_09.md)|
-|[Gamma Brevis Rewarder](https://audits.sherlock.xyz/contests/496)| Liquidity Management | 314.34 OP | 1M | 🥈 |[💾](contests/Gamma_Brevis_Rewarder-2024_10.md)|
-|[Sablier Flow](https://codehawks.cyfrin.io/c/2024-10-sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Payment streaming, Debt tracking | $865.89 | 1L | 6th |[💾](contests/Sablier-2024_10.md)|
-|[vVv Launchpad](https://audits.sherlock.xyz/contests/647)| Launchpad, Token Distribution | $94.59 | 1H | 🥇 |[💾](contests/vVv_Launchpad-2024_11.md)|
-|[Lambowin](https://code4rena.com/audits/2024-12-lambowin)| Launchpad, Meme projects | $388.43 | 2H, 3M | 7th |[💾](contests/Lambowin-2024_12.md)|
-|[IQ AI](https://code4rena.com/audits/2025-01-iq-ai)| AI Agent, Launchpad | $1,392.11 | 1H, 1M | 🥉 |[💾](contests/Lambowin-2025_01.md)|
-
+|[Immunefi Arbitration](https://immunefi.com/audit-competition/immunefiarbitration-boost/leaderboard/)| Vesting, Conflict remediation | $1,269.00 | 1I | 🥉 |[💾](contests/2024_03-Immunefi_Arbitration.md)|
+|[LoopFi](https://code4rena.com/audits/2024-05-loopfi)| Vesting, Restaking | $386.08 | 1H | 🥉 |[💾](contests/2024_05-LoopFi.md)|
+|[Sablier](https://codehawks.cyfrin.io/c/2024-05-Sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Token distribution, Vesting, Payroll | $982.48 | 1M, 1L | 8th |[💾](contests/2024_05-Sablier.md)|
+|[Thorchain](https://code4rena.com/audits/2024-06-thorchain)| Bridge, Cross-chain DEX | $596.13 | 1H, 1M |10th|[💾](contests/2024_06-Thorchain.md)|
+|[Size Credit](https://code4rena.com/audits/2024-06-size)| Lending | $1,903.96 | 2H | 16th |[💾](contests/2024_06-Size_Credit.md)|
+|[eBTC Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-router)| BTC, CDP, DEX | $2,356.92 | 1M | 4th |[💾](contests/2024_06-eBTC.md)|
+|[Ark Project](https://codehawks.cyfrin.io/c/2024-07-ark-project/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Bridge, NFT, Starknet | $827.28 | 2H, 1M | 21th |[💾](contests/2024_07-Ark_Project.md)|
+|[Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2)| Restaking, Shared security | $211.51 | 1M | 32th |[💾](contests/2024_09-Symbiotic.md)|
+|[Gamma Brevis Rewarder](https://audits.sherlock.xyz/contests/496)| Liquidity Management | 314.34 OP | 1M | 🥈 |[💾](contests/2024_10-Gamma_Brevis_Rewarder.md)|
+|[Sablier Flow](https://codehawks.cyfrin.io/c/2024-10-sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Payment streaming, Debt tracking | $865.89 | 1L | 6th |[💾](contests/2024_10-Sablier.md)|
+|[vVv Launchpad](https://audits.sherlock.xyz/contests/647)| Launchpad, Token Distribution | $189.18 | 1H | 🥇 |[💾](contests/2024_11-vVv_Launchpad.md)|
+|[Lambowin](https://code4rena.com/audits/2024-12-lambowin)| Launchpad, Meme projects | $388.43 | 2H, 3M | 7th |[💾](contests/2024_12-Lambowin.md)|
+|[IQ AI](https://code4rena.com/audits/2025-01-iq-ai)| AI Agent, Launchpad | $1,392.11 | 1H, 1M | 🥉 |[💾](contests/2025_01-IQ_AI.md)|
 
 ## Team
 
-*Have any questions? Reach out to the core team directly at `contact@beyondaudit.xyz` or on Twitter*
-- [Mikb](https://twitter.com/xmikb)
-- [Greed](https://twitter.com/0xGreed_)
-- [m4k2](https://twitter.com/m4k2_0x)
-- [Icarus](https://twitter.com/Icarus_xB)
-- [Le_Rems](https://twitter.com/0xLe_Rems)
+Feel free to reach out to us directly on our socials or checkout our complete contest profiles
 
-## 
+|Auditor |  Telegram  | Twitter | Contest Profile |
+---------|:----------:|:-------:|-----------------|
+|Mikb    | [📩](https://t.me/xMikb) | [📱](https://twitter.com/xmikb) |  |
+|Greed   | [📩](https://t.me/zeroXgreed) | [📱](https://twitter.com/0xGreed_) | [👾](https://audits.sherlock.xyz/watson/Greed) |
+|m4k2    |  | [📱](https://twitter.com/m4k2_0x) | [👾](https://audits.sherlock.xyz/watson/m4k2) |
+|Icarus  |  | [📱](https://twitter.com/Icarus_xB) |  |
+|Le_Rems |  | [📱](https://twitter.com/0xLe_Rems) |  |
