@@ -33,7 +33,7 @@ Note: *All reports herein are published with the consent of our clients.*
 |[Sablier](https://codehawks.cyfrin.io/c/2024-05-Sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Token distribution, Vesting, Payroll | $982.48 | 1M, 1L | 8th |[💾](contests/Sablier-2024_05.md)|
 |[Thorchain](https://code4rena.com/audits/2024-06-thorchain)| Bridge, Cross-chain DEX | $596.13 | 1H, 1M |10th|[💾](contests/Thorchain-2024_06.md)|
 |[Size Credit](https://code4rena.com/audits/2024-06-size)| Lending | $1,903.96 | 2H | 16th |[💾](contests/Size_Credit-2024_06.md)|
-|[Ark Project](https://codehawks.cyfrin.io/contests/clz2gpi0o000ps6nj8stws2bd)| Bridge, NFT, Starknet | $413.64 | 2H, 1M | 21th |[💾](contests/Size_Credit-2024_06.md)|
+|[Ark Project](https://codehawks.cyfrin.io/c/2024-07-ark-project/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)| Bridge, NFT, Starknet | $413.64 | 2H, 1M | 21th |[💾](contests/Size_Credit-2024_06.md)|
 |[eBTC Zap Router](https://code4rena.com/audits/2024-06-ebtc-zap-router)| BTC, CDP, DEX | $2,356.92 | 1M | 4th |[💾](contests/eBTC-2024_06.md)|  
 |[Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2)| Restaking, Shared security | $211.51 | 1M | 32th |[💾](contests/Symbiotic-2024_09.md)|
 |[Gamma Brevis Rewarder](https://audits.sherlock.xyz/contests/496)| Liquidity Management | 314.34 OP | 1M | 🥈 |[💾](contests/Gamma_Brevis_Rewarder-2024_10.md)|
