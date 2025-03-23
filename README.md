@@ -21,7 +21,7 @@ Note: *All reports herein are published with the consent of our clients.*
 
 | Protocol | Date | Type | Report  |
 |----------|------|------|:-------:|
-| [Bountive](https://www.bountive.fi/) |October 2024 | Prize Savings | [📄](audits/Bountive_security_review_v2_3.pdf) |
+| [Bountive](https://www.bountive.fi/) |October 2024 | Prize Savings, Starknet | [📄](audits/Bountive_security_review_v2_3.pdf) |
 | [0liqlend](https://www.0liqlend.com/) |November 2024 | Lending | [📄](audits/0liqlend_Security_Review_v2.pdf) |
 
 ## Contests
