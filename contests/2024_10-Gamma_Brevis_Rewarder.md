@@ -1,4 +1,4 @@
-# Gamma Brevise Rewarder
+# Gamma Brevis Rewarder
 
 ## [M-01] Loss of dust tokens in distribution calculation
 
