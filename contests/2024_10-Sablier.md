@@ -1,8 +1,8 @@
 # Sablier Flow
 
-# [L-01] The use of `decimals()` may not work for all tokens
+## [L-01] The use of `decimals()` may not work for all tokens
 
-## Summary
+### Summary
 
 When a stream is created, the contract retrieves the token number of decimals using the `decimals()` function, which is part of the ERC20Metadata standard.
 
@@ -27,17 +27,16 @@ function _create(
     uint8 tokenDecimals = IERC20Metadata(address(token)).decimals();
 ```
 
-## Vulnerability Details
+### Vulnerability Details
 
 The issue is that not all ERC20 tokens provide such an interface meaning the call will not work and will revert.
 
-## Impact
+### Impact
 
 Some tokens may not be compatible with the protocol
 
-## Recommendations
+### Recommendation
 
 Perform a `try/catch` when retrieving the number of decimals. If the call fails, assume the token has 18 decimals.
 
 The protocol can also allow to manually set the token decimal number as a fallback.
-
