@@ -41,7 +41,7 @@ Note: *All reports herein are published with the consent of our clients.*
 |[vVv Launchpad](https://audits.sherlock.xyz/contests/647)| Launchpad, Token Distribution | $189.18 | 1H | 🥇 |[💾](contests/2024_11-vVv_Launchpad.md)|
 |[Lambowin](https://code4rena.com/audits/2024-12-lambowin)| Launchpad, Meme projects | $388.43 | 2H, 3M | 7th |[💾](contests/2024_12-Lambowin.md)|
 |[IQ AI](https://code4rena.com/audits/2025-01-iq-ai)| AI Agent, Launchpad | $1,392.11 | 1H, 1M | 🥉 |[💾](contests/2025_01-IQ_AI.md)|
-|[Starknet Perpetual](https://code4rena.com/audits/2025-03-starknet-perpetual)| Starknet, Perpetual, Cairo | $9,397.98 | 1H, 1M | 🥉 |[💾]()|
+|[Starknet Perpetual](https://code4rena.com/audits/2025-03-starknet-perpetual)| Starknet, Perpetual, Cairo | $9,397.98 | 1H, 1M | 🥉 |[💾](contests/2025_03-starknet-perpetual.md)|
 
 ## Team
 
